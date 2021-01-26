@@ -1,0 +1,12 @@
+
+real	0m0,069s
+user	0m0,060s
+sys	0m0,008s
+Tiempo de c++
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,914s
+user	0m2,910s
+sys	0m0,001s
