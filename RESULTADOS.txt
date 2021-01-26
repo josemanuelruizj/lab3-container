@@ -26,3 +26,31 @@ Finish!
 real	0m2,915s
 user	0m2,911s
 sys	0m0,001s
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m36,666s
+user	1m36,328s
+sys	0m0,170s
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	5m47,610s
+user	5m46,887s
+sys	0m0,175s
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,949s
+user	0m0,795s
+sys	0m0,117s
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,998s
+user	0m2,837s
+sys	0m0,122s
